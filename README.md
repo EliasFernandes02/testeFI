@@ -10,7 +10,7 @@
 - Bootstrap 5.1
 
 ## Getting Start
-1. Clone o repositorio `https://github.com/EliasFernandes02/Teste-FI.git`
+1. Clone o repositorio `https://github.com/EliasFernandes02/testeFI.git`
 
 2. Crie um banco de dados e configure um arquivo na raiz da aplicação `.env` utilizando o arquivo `.env.dist` como exemplo.
 
