@@ -1,8 +1,3 @@
-# Biblioteca Virtual
-> Aluno: **Fco Alessandro Feitoza da Silva** \
-Matricula: **202110129831**\
-Disciplina: **Implementação de Projeto Orientado a Objetos**
-
 
 ### Stack de Desenvolvimento
 #### Backend:
@@ -12,9 +7,7 @@ Disciplina: **Implementação de Projeto Orientado a Objetos**
 - Symfony/dotenv: 6.1
 
 #### Frontend:
-- HTML & CSS
 - Bootstrap 5.1
-- Material Icons
 
 ## Getting Start
 1. Clone o repositorio `https://github.com/EliasFernandes02/Teste-FI.git`
@@ -27,6 +20,8 @@ Disciplina: **Implementação de Projeto Orientado a Objetos**
 
 4. Para executar o projeto precisaremos subir um servidor PHP, para isso basta executar `php -S localhost:8000 -t public`
 
-5. Abra seu navegador, acesse o endereço https://localhost:8000 e pronto!
+5. Abra seu navegador, acesse o endereço https://localhost:8000  ou a porta que desejar e pronto!
 
-6. Utilize o insomnia para observar as rotas e fazer as operações
+6. Atente-se para o banco de dados, no arquivo .env eu designei qual eu utilizei.
+
+7. Utilize o insomnia para observar as rotas e fazer as operações
